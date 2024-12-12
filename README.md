@@ -4,11 +4,11 @@ src/
 ├── config.rs
 ├── models/
 │   ├── mod.rs
-│   └── user.rs
+│   └── todo.rs
 ├── handlers/
 │   ├── mod.rs
-│   └── user_handler.rs
+│   └── todo_handler.rs
 └── routes/
     ├── mod.rs
-    └── user_routes.rs
+    └── todo_routes.rs
 ```
